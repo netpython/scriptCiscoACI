@@ -47,3 +47,6 @@ Tous les scripts sont en lecture seule. Les sorties sont enregistrées dans `out
 
 MIT.
 
+## Programmes avancés
+
+Le dossier `programs/` contient cinq audits complets : conformité des tenants, sécurité EPG/contrats, corrélation des faults, conformité des interfaces et dérive de configuration.
