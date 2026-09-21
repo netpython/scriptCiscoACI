@@ -1,0 +1,4 @@
+timeout: 30
+tenant: null
+fault_severities: [critical, major, minor]
+
